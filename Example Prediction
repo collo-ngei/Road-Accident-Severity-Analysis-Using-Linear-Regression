@@ -1,0 +1,8 @@
+Suppose we want to predict accident severity for the following scenario:
+
+Speed: 80 km/h
+Weather Condition: Clear
+Road Condition: Dry
+Time of Day: Night
+Driver Age: 30
+Vehicle Type: Sedan
