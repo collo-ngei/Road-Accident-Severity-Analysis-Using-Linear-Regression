@@ -22,3 +22,4 @@ See the code for a real-life example of predicting accident severity. Modify the
 
 ### Benefits for Underdeveloped Countries
 Traffic accident analysis models like this can provide insights for improving road safety, managing traffic, and designing infrastructure.
+!pip install pandas numpy scikit-learn matplotlib seaborn
