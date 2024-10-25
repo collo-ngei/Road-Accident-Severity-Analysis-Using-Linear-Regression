@@ -1,0 +1,6 @@
+model = LinearRegression()
+model.fit(X_train, Y_train)
+
+# Save the trained model for future use
+import joblib
+joblib.dump(model, 'accident_severity_model.pkl')
