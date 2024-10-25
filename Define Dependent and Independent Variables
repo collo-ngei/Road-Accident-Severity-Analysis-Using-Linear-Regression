@@ -1,0 +1,3 @@
+# Specify dependent (Y) and independent variables (X)
+X = data[['speed', 'weather_condition', 'road_condition', 'time_of_day', 'driver_age', 'vehicle_type']]
+Y = data['accident_severity']
